@@ -2,8 +2,8 @@
 #include<conio.h>
 void main()
 {
-char i;
-if(i==a||i==e||i==i||i==o||i==u)
+char n;
+if(n==a||n==e||n==i||n==o||n==u)
 {
 printf("vowel");
 }
